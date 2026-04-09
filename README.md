@@ -15,8 +15,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone <repo-url>
-cd course-8-module-6-connect-client-server-lab
+git clone 
+cd connect-client-server-lab
 ```
 
 ### 2. Create Your Environment
@@ -47,7 +47,6 @@ To check your work, run:
 pytest
 ```
 
-All tests must pass to complete the lab.
 
 ---
 
